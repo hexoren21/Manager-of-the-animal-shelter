@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaZwierząt>
+    <Animal age="2" name="pies">
+        <id>0</id>
+    </Animal>
+    <Animal age="3" name="kot">
+        <id>0</id>
+    </Animal>
+</listaZwierząt>
